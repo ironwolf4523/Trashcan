@@ -1,5 +1,5 @@
-# Ele.OS Discord Bot!
-I've made an Ele.OS discord bot based on [Jakeneutron's](https://www.youtube.com/user/Jakeneutron) [Endcard](https://www.youtube.com/playlist?list=PLNzAbQKI5RwGvxtk3ZvkXHyT11o01yKol) series
+# Reece Discord Bot!
+I've made an Reece discord bot based on [Jakeneutron's](https://www.youtube.com/user/Jakeneutron) [Endcard](https://www.youtube.com/playlist?list=PLNzAbQKI5RwGvxtk3ZvkXHyT11o01yKol) series
 
 It's took about 3 days of solid coding and is coded in Javascript so you need [Node.js](https://nodejs.org/en/) for it to work!
 ## Dependencies
